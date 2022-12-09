@@ -20,10 +20,16 @@
 3. Source & Reference : 
 
 https://www.youtube.com/watch?v=bKPIcoou9N8&list=PLMsa_0kAjjrd8hYYCwbAuDsXZmHpqHvlV&index=3
+
 https://pyimagesearch.com/2015/05/25/basic-motion-detection-and-tracking-with-python-and-opencv/
-https://velog.io/@jun7332568/flutter%ED%94%8C%EB%9F%AC%ED%84%B0-%ED%91%B8%EC%8B%9C%EC%95%8C%EB%9E%8C%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-with-firebase
+
+https://velog.io/@jun7332568/flutter%ED%94%8C%EB%9F%AC%ED%84%B0-%ED%91%B8%EC%8B%9C%EC%95%8C%EB%9E%8C%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-
+%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-with-firebase
+
 https://www.youtube.com/@GDSB
+
 https://stackoverflow.com/questions/40514508/opencv-detect-movement-in-python
+
 https://github.com/opencv/opencv/tree/master/data/haarcascades
 
 4. firebase cloud messaging (fcm) : 
