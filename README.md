@@ -1,4 +1,5 @@
 # Opensource_7team
+(장준용, 송병현, 남채린, 손준오)
 
 ## 실시간 CCTV감지 시스템 : Live Security
 
