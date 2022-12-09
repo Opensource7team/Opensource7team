@@ -15,4 +15,4 @@ Opensource_7team
 
 
 4. firebase cloud messaging (fcm)
-https://console.firebase.google.com/project/opensource-team7/overview?hl=ko
+: https://console.firebase.google.com/project/opensource-team7/overview?hl=ko
