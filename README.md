@@ -1,8 +1,8 @@
 # Opensource_7team
 
-# 실시간 CCTV감지 시스템 : Live Security
+## 실시간 CCTV감지 시스템 : Live Security
 
-## table of contents
+### table of contents
 * 구성
 1. Aim & Background - PPT(앱 개요)
 
