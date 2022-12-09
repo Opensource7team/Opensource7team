@@ -13,9 +13,9 @@
  
      : Android studio에서 kottlin이나 flutter를 이용하여 앱구현
      
-    앱 디자인
+       앱 디자인
     
-    코드 간결화(알림 코드)
+       코드 간결화(알림 코드)
 3. Source & Reference : 
 
 https://www.youtube.com/watch?v=bKPIcoou9N8&list=PLMsa_0kAjjrd8hYYCwbAuDsXZmHpqHvlV&index=3
