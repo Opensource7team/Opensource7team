@@ -3,14 +3,14 @@ Opensource_7team
 
 ## table of contents
 * 구성
-1. Aim & Background - PPT
+1. Aim & Background - PPT(앱 개요)
 
 2. Contents
 - 실시간 감지 시스템(CCTV) 코드
 - 감지 --> 알림 코드
 - 향후 계획 및 수정해야할 점
  
-    : Android studio에서 kottlin이나 flutter를 이용하여 앱구현
+     : Android studio에서 kottlin이나 flutter를 이용하여 앱구현
     앱 디자인
     코드 간결화(알림 코드)
 3. Source & Reference : 
